@@ -1,0 +1,208 @@
+body{
+	font-family: 'Titillium Web', sans-serif;
+	font-weight: 400;
+}
+/*..header star..*/
+header{
+	background-color: #87509c;
+}
+button:focus{
+	outline: none;
+}
+.h_img img{
+	width: 80%;
+}
+.h_a li{
+	margin-left: 20px;
+}
+.h_a a{
+	color: white !important;
+	
+}
+.h_a li:hover{
+	background-color: #643a79;
+}
+/*..header end..*/
+/*..welcome start..*/
+.welcome{
+	background-color: #87509c;
+}
+.w_text{
+	margin:auto;
+	padding: 180px 0;
+}
+.welcome h1{
+	font-size: 42.16px;
+	font-weight: 700;
+	color: white;
+	margin-bottom: 50px;
+	text-align: center;
+	
+}
+.welcome button{
+	font-family: 'Titillium Web', sans-serif;
+	font-weight: 600;
+	font-size: 18px;
+	width: 290px;
+	height: 60px;
+	background-color: #eb7d4b;
+	color: white;
+	border-collapse: 5px;
+}
+.welcome button:hover{
+	background-color: white;
+	color: black;
+	
+}
+
+
+
+/*..welcome end..*/
+/*..service start..*/
+
+.service{
+	background-color: #17c2a4;
+	padding: 110px 0 120px 0;
+}
+.service h1{
+	font-family: 'Titillium Web', sans-serif;
+	font-weight: 700;
+	font-size: 40px;
+	color: white;
+	margin-bottom: 50px;
+}
+.service p{
+	font-family: 'Titillium Web', sans-serif;
+	font-weight: 400;
+	font-size: 18px;
+	color: white;
+	margin-bottom: 80px;
+}
+.service h3{
+	font-family: 'Titillium Web', sans-serif;
+	font-weight: 700;
+	font-size: 24px;
+	color: white;
+	text-transform: uppercase;
+	margin: 50px 0 30px 0;
+}
+.s_p{
+	font-family: 'Titillium Web', sans-serif;
+	font-weight: 300;
+	font-size: 16px;
+	color: white;
+}
+.s_img{
+	max-width: 40%;
+	height: auto;
+}
+/*..service end..*/
+/*..porfolio start..*/
+.portfolio{
+	background-color: #ffdd99;
+}
+.same_h1 {
+	font-family: 'Titillium Web', sans-serif;
+	font-size: 40px;
+	font-weight: 700;
+	letter-spacing: 2px;
+	margin: 120px 0 50px 0;
+}
+.same_p{
+	font-family: 'Titillium Web', sans-serif;
+	font-size: 18px;
+	font-weight: 400;
+	margin-bottom: 50px;
+}
+.portfolio button{
+	width: 80px;
+	height: 35px;
+	margin-right: 5px;
+	background-color: #ebc985;
+	border-style: none;
+}
+.portfolio button:hover{
+			background-color: white;
+
+}
+.no2{
+	margin-top: 57px;
+	margin-bottom: 80px;
+}
+.no2 p{
+	    margin-top: 35px;
+}
+.no3 button{
+	background-color: #17c2a4;
+	width: 290px;
+	height: 60px;
+	margin-bottom: 60px;
+}
+.no3 h1{
+	font-family: 'Titillium Web', sans-serif;
+	font-size: 18px;
+	font-weight: 500;
+	margin: 0;
+}
+/*..porfolio end..*/
+/*..get start..*/
+.get{
+	background-color: #3c5499;
+}
+.get h1{
+	color: white;
+}
+.get p{
+	color: white;
+}
+.g_input{
+	border-style: none;
+	background-color: #0c1977;
+}
+input::placeholder{
+	color: white !important;
+}
+.g_input2{
+	height: 300px;
+    margin-top: 20px;
+    text-align: top;
+    background-color: #0c1977;
+    border-style: none;
+}
+.g_button{
+	font-family: 'Titillium Web', sans-serif;
+	font-size: 18px;
+	font-weight: 600;
+	color: white;
+	width: 285px;
+	height: 60px;
+	background-color: #30bae7;
+	outline: none;
+	border-style: none;
+	border-radius: 5px;
+	margin: 20px 0;
+}
+.g_button:hover{
+	color: black;
+	background-color: white;
+}
+
+/*..get end..*/
+/*..footer start..*/
+footer{
+	background-color: #344b8e;
+	height: 100px;
+}
+.f_line{
+	margin-top: 35px;
+}
+.f_a{
+	font-family: 'Titillium Web', sans-serif;
+	font-size: 24px;
+	font-weight: 500;
+	color: white !important;
+	padding: 0 20px;
+}
+/*..footer end..*/
+
+

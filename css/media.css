@@ -1,0 +1,167 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) { 
+	/*header start*/
+	.h_a a{
+	text-align: right;
+	line-height: 1;
+}
+	/*header end*/
+	/*--welcome start--*/
+	.w_text {
+    
+    padding: 31px 0;
+}
+	.welcome h1 {
+    font-size: 23.16px;
+ 
+   
+}
+	.welcome button {
+  
+    font-size: 16px;
+    width: 150px;
+    height: 40px;
+    
+}
+.service {
+    background-color: #17c2a4;
+    padding: 40px 0 40px 0;
+}
+.service h1 {
+    
+    font-size: 25px;
+    margin-bottom: 35px;
+}
+.service p {
+
+    font-size: 16px;
+    margin-bottom: 30px;
+}
+
+
+
+.service h3 {
+   
+    font-size: 17px;
+    margin: 27px 0 16px 0;
+}
+	/*--welcome end--*/
+	/*--portfolio start--*/
+.portfolio h1 {
+    font-size: 30px;
+    margin: 43px 0 14px 0;
+}
+.portfolio p {
+    font-size: 16px;
+    margin-bottom: 25px;
+}
+.portfolio button {
+    width: 53px;
+    height: 32px;
+}
+.no2{
+	margin-bottom: 25px;
+}
+.no2 p{
+	 margin-top: 10px;
+}
+
+.no3 h1{
+	font-family: 'Titillium Web', sans-serif;
+	font-size: 9px;
+	font-weight: 400;
+	margin: 0;
+}
+.no3 button {
+    width: 116px;
+    height: 32px;
+}
+	/*--portfolio end--*/
+	/*--get start--*/
+.same_h1 {
+    font-size: 25px;
+    margin: 43px 0 23px 0;
+}
+.same_p {
+    font-size: 16px;
+    margin-bottom: 30px;
+}
+.g_input{
+	margin-bottom: 10px;
+}
+.g_input2{
+	height: 140px;
+}
+.g_button {
+    font-size: 16px;
+    width: 149px;
+    height: 29px;
+    margin-top: 25px;
+}
+
+	/*--get end--*/
+	/*--footer start--*/
+.f_a {
+    font-size: 16px;
+    font-weight: 400;
+    padding: 0px 11px;
+}
+	/*--footer end--*/
+
+
+
+}
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+	/*header start*/
+.h_a a{
+	text-align: right;
+} 
+
+/*header end*/
+ }
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+/*--header start--*/
+.h_a a{
+	text-align: right;
+}
+/*--header end--*/
+/*--welcome start--*/
+.welcome button {
+
+    width: 220px;
+    height: 50px;
+
+}
+.w_text {
+    padding: 76px 0;
+}
+.welcome h1 {
+    font-size: 27.16px;
+    
+}
+/*--welcome end--*/
+/*--footer start--*/
+.f_a {
+    font-size: 18px;
+    padding: 0 7px;
+}
+/*--footer end--*/
+}
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+	/*--footer start--*/
+.f_a {
+    font-size: 18px;
+    padding: 0 10px;
+}
+/*--footer end--*/
+ }
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+ }
